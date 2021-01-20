@@ -1,2 +1,2 @@
-# layouts_responsivos_alura
-Layouts mobile
+# projeto-apeperia
+Arquivos do projeto para a Apeperia
